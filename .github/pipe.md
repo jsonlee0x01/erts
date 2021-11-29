@@ -12,3 +12,5 @@ GDB `x command` example: <https://blogs.oracle.com/linux/post/8-gdb-tricks-you-s
 Doxygen UML look: <https://stackoverflow.com/questions/4755913/how-to-use-doxygen-to-create-uml-class-diagrams-from-c-source> and <https://stackoverflow.com/questions/4626336/how-to-generate-sequence-diagram-for-my-native-c-c-code>
 
 Operating Systems: Three Easy Pieces: <https://pages.cs.wisc.edu/~remzi/OSTEP/>
+
+Replicate Vector in C: <https://stackoverflow.com/questions/4694401/how-to-replicate-vector-in-c> & <https://eddmann.com/posts/implementing-a-dynamic-vector-array-in-c/>
