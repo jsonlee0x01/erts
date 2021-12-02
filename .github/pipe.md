@@ -16,3 +16,5 @@ Operating Systems: Three Easy Pieces: <https://pages.cs.wisc.edu/~remzi/OSTEP/>
 Replicate Vector in C: <https://stackoverflow.com/questions/4694401/how-to-replicate-vector-in-c> & <https://eddmann.com/posts/implementing-a-dynamic-vector-array-in-c/>
 
 Stack smashing detected and minimal reproduction example with disassembly analysis: <https://stackoverflow.com/questions/1345670/stack-smashing-detected>
+
+修改git历史用户名和email：<https://cloud.tencent.com/developer/article/1352623>
