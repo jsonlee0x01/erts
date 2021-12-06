@@ -18,3 +18,5 @@ Replicate Vector in C: <https://stackoverflow.com/questions/4694401/how-to-repli
 Stack smashing detected and minimal reproduction example with disassembly analysis: <https://stackoverflow.com/questions/1345670/stack-smashing-detected>
 
 修改git历史用户名和email：<https://cloud.tencent.com/developer/article/1352623>
+
+stdc++11 `atomic_thread_fence`: <https://devdocs.io/cpp/atomic/atomic_thread_fence>
