@@ -20,3 +20,5 @@ Stack smashing detected and minimal reproduction example with disassembly analys
 修改git历史用户名和email：<https://cloud.tencent.com/developer/article/1352623>
 
 stdc++11 `atomic_thread_fence`: <https://devdocs.io/cpp/atomic/atomic_thread_fence>
+
+Big Project Build Times–Chromium: <https://randomascii.wordpress.com/2020/03/30/big-project-build-times-chromium/>
