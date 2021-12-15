@@ -24,3 +24,5 @@ stdc++11 `atomic_thread_fence`: <https://devdocs.io/cpp/atomic/atomic_thread_fen
 Big Project Build Times–Chromium: <https://randomascii.wordpress.com/2020/03/30/big-project-build-times-chromium/>
 
 patchelf显式添加依赖：<https://blog.csdn.net/Longyu_wlz/article/details/108550528>
+
+Interactive Programming in C: <https://nullprogram.com/blog/2014/12/23/>
