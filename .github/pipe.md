@@ -28,3 +28,5 @@ patchelf显式添加依赖：<https://blog.csdn.net/Longyu_wlz/article/details/1
 Interactive Programming in C: <https://nullprogram.com/blog/2014/12/23/>
 
 Hello World: A Brief Introduction to Capture-The-Flag, <https://www.cs.purdue.edu/homes/zhan3299/res/CTF19_slides.pdf>
+
+Garbage Collection Safepoints in LLVM: <https://llvm.org/docs/Statepoints.html>
