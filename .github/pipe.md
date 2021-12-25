@@ -30,3 +30,5 @@ Interactive Programming in C: <https://nullprogram.com/blog/2014/12/23/>
 Hello World: A Brief Introduction to Capture-The-Flag, <https://www.cs.purdue.edu/homes/zhan3299/res/CTF19_slides.pdf>
 
 Garbage Collection Safepoints in LLVM: <https://llvm.org/docs/Statepoints.html>
+
+使用 cProfile 和火焰图调优 Python 程序性能: <https://zhuanlan.zhihu.com/p/53760922>
