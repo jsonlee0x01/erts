@@ -32,3 +32,7 @@ Hello World: A Brief Introduction to Capture-The-Flag, <https://www.cs.purdue.ed
 Garbage Collection Safepoints in LLVM: <https://llvm.org/docs/Statepoints.html>
 
 使用 cProfile 和火焰图调优 Python 程序性能: <https://zhuanlan.zhihu.com/p/53760922>
+
+The problem with OOP and how Golang solves it: <https://girish3.github.io/2017/05/28/the-problem-with-oop-and-how-golang-solves-it./> & Inheritance Is Evil. Stop Using It: <https://codeburst.io/inheritance-is-evil-stop-using-it-6c4f1caf5117>
+
+
