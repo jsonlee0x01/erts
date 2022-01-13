@@ -38,3 +38,5 @@ The problem with OOP and how Golang solves it: <https://girish3.github.io/2017/0
 Masterminds of Programming： <http://bobzhang.dscloud.me/Calibre%20Library/Biancuzzi%2C%20Federico_%20O%27Reilly/Masterminds%20of%20Programming%20%28197%29/Masterminds%20of%20Programming%20-%20Biancuzzi%2C%20Federico_%20O%27Reilly.pdf>
 
 Why OO Sucks by Joe Armstrong? <http://harmful.cat-v.org/software/OO_programming/why_oo_sucks>
+
+Go逃逸分析：<https://geektutu.com/post/hpg-escape-analysis.html>
