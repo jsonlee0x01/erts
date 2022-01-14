@@ -40,3 +40,5 @@ Masterminds of Programming： <http://bobzhang.dscloud.me/Calibre%20Library/Bian
 Why OO Sucks by Joe Armstrong? <http://harmful.cat-v.org/software/OO_programming/why_oo_sucks>
 
 Go逃逸分析：<https://geektutu.com/post/hpg-escape-analysis.html>
+
+Erlang热更新应用级别示例：<https://learnyousomeerlang.com/relups>
