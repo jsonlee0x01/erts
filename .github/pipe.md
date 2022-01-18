@@ -42,3 +42,5 @@ Why OO Sucks by Joe Armstrong? <http://harmful.cat-v.org/software/OO_programming
 Go逃逸分析：<https://geektutu.com/post/hpg-escape-analysis.html>
 
 Erlang热更新应用级别示例：<https://learnyousomeerlang.com/relups>
+
+C call Lua示例：<http://www.troubleshooters.com/codecorn/lua/lua_c_calls_lua.htm>
