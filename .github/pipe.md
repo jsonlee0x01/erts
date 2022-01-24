@@ -46,3 +46,5 @@ Erlang热更新应用级别示例：<https://learnyousomeerlang.com/relups>
 C call Lua示例：<http://www.troubleshooters.com/codecorn/lua/lua_c_calls_lua.htm>
 
 Faster CPython, Register-based Virtual Machine for Python: <https://faster-cpython.readthedocs.io/index.html>
+
+libco: 协程管理， <http://kaiyuan.me/2017/10/20/libco2/>
