@@ -48,3 +48,5 @@ C call Lua示例：<http://www.troubleshooters.com/codecorn/lua/lua_c_calls_lua.
 Faster CPython, Register-based Virtual Machine for Python: <https://faster-cpython.readthedocs.io/index.html>
 
 libco: 协程管理， <http://kaiyuan.me/2017/10/20/libco2/> & <https://www.infoq.cn/article/CplusStyleCorourtine-At-Wechat/>
+
+POSIX标准：<https://pubs.opengroup.org/onlinepubs/9699919799/>
