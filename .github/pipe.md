@@ -52,3 +52,5 @@ libco: 协程管理， <http://kaiyuan.me/2017/10/20/libco2/> & <https://www.inf
 POSIX标准：<https://pubs.opengroup.org/onlinepubs/9699919799/>
 
 Heisenbug: <https://en.wikipedia.org/wiki/Heisenbug> & <https://stackoverflow.com/questions/7507336/crashes-normally-but-not-with-gdb>
+
+Rust: <https://book.rust.team/> & <https://github.com/sunface/rust-course>
