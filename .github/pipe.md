@@ -54,3 +54,5 @@ POSIX标准：<https://pubs.opengroup.org/onlinepubs/9699919799/>
 Heisenbug: <https://en.wikipedia.org/wiki/Heisenbug> & <https://stackoverflow.com/questions/7507336/crashes-normally-but-not-with-gdb>
 
 Rust: <https://book.rust.team/> & <https://github.com/sunface/rust-course>
+
+Java GC and Memory Basics from hinus: <https://zhuanlan.zhihu.com/p/24393775?refer=hinus>
