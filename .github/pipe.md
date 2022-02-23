@@ -58,3 +58,5 @@ Rust: <https://book.rust.team/> & <https://github.com/sunface/rust-course>
 Java GC and Memory Basics from hinus: <https://zhuanlan.zhihu.com/p/24393775?refer=hinus>
 
 Lua热更新：<http://asqbtcupid.github.io/hotupdte-implement/>
+
+HOPL'2007, A history of Erlang, by Joe Armstrong: <https://dl.acm.org/doi/10.1145/1238844.1238850>
