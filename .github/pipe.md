@@ -60,3 +60,6 @@ Java GC and Memory Basics from hinus: <https://zhuanlan.zhihu.com/p/24393775?ref
 Lua热更新：<http://asqbtcupid.github.io/hotupdte-implement/>
 
 HOPL'2007, A history of Erlang, by Joe Armstrong: <https://dl.acm.org/doi/10.1145/1238844.1238850>
+
+HOPL'2021, Thriving in a Crowded and Changing World: C++ 2006–2020, by Bjarne Stroustrup: <https://www.stroustrup.com/hopl20main-p5-p-bfc9cd4--final.pdf> and <https://github.com/Cpp-Club/Cxx_HOPL4_zh>
+
