@@ -56,3 +56,5 @@ Heisenbug: <https://en.wikipedia.org/wiki/Heisenbug> & <https://stackoverflow.co
 Rust: <https://book.rust.team/> & <https://github.com/sunface/rust-course>
 
 Java GC and Memory Basics from hinus: <https://zhuanlan.zhihu.com/p/24393775?refer=hinus>
+
+Lua热更新：<http://asqbtcupid.github.io/hotupdte-implement/>
