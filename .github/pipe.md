@@ -66,3 +66,5 @@ HOPL'2021, Thriving in a Crowded and Changing World: C++ 2006–2020, by Bjarne 
 EuroSys'2021, Bridging the Performance Gap for Copy-based Garbage Collectors atop Non-Volatile Memory, from SJTU: <https://2021.eurosys.org/docs/presentations/eurosys21-full-v2%20-%20%E5%90%B4%E6%98%8E%E7%91%9C.pptx>
 
 RPC基本原理：<https://www.jianshu.com/p/78f72ccf0377> & <https://zhuanlan.zhihu.com/p/29857744>
+
+设计数据密集型应用系统：<http://ddia.vonng.com/#/>
