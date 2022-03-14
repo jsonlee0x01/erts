@@ -68,3 +68,5 @@ EuroSys'2021, Bridging the Performance Gap for Copy-based Garbage Collectors ato
 RPC基本原理：<https://www.jianshu.com/p/78f72ccf0377> & <https://zhuanlan.zhihu.com/p/29857744>
 
 设计数据密集型应用系统：<http://ddia.vonng.com/#/>
+
+Usenix ATC'2021, PYLIVE: On-the-Fly Code Change for Python-based Online Services, <https://www.usenix.org/conference/atc21/presentation/huang-haochen>
