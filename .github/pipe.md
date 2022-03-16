@@ -70,3 +70,5 @@ RPC基本原理：<https://www.jianshu.com/p/78f72ccf0377> & <https://zhuanlan.z
 设计数据密集型应用系统：<http://ddia.vonng.com/#/>
 
 Usenix ATC'2021, PYLIVE: On-the-Fly Code Change for Python-based Online Services, <https://www.usenix.org/conference/atc21/presentation/huang-haochen>
+
+Racket入门：<https://tyrchen.github.io/racket-book/begin.html>
