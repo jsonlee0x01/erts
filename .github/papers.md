@@ -9,3 +9,7 @@ Usenix ATC'2021, PYLIVE: On-the-Fly Code Change for Python-based Online Services
 ASPLOS'2022, Best Paper Awards, Understanding and Exploiting Optimal Function Inlining, <https://dl.acm.org/doi/pdf/10.1145/3503222.3507744>
 
 ASPLOS'2022, Best Paper Awards, TMO: Transparent Memory Offloading in Datacenters, <https://dl.acm.org/doi/pdf/10.1145/3503222.3507731>
+
+ASPLOS'2022, Vector Instruction Selection for Digital Signal Processors using Program Synthesis, <https://dl.acm.org/doi/10.1145/3503222.3507714>
+
+IISWC'2021, Characterizing and Demystifying the Implicit Convolution Algorithm on Commercial Matrix-Multiplication Accelerators, <https://arxiv.org/abs/2110.03901>
