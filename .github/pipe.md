@@ -72,3 +72,5 @@ RPC基本原理：<https://www.jianshu.com/p/78f72ccf0377> & <https://zhuanlan.z
 Usenix ATC'2021, PYLIVE: On-the-Fly Code Change for Python-based Online Services, <https://www.usenix.org/conference/atc21/presentation/huang-haochen>
 
 Racket入门：<https://tyrchen.github.io/racket-book/begin.html>
+
+Multithreaded Programming Guide (mainly about pthreads): <https://docs.oracle.com/cd/E19683-01/806-6867/index.html>
