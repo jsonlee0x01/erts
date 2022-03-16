@@ -7,3 +7,5 @@ EuroSys'2021, Bridging the Performance Gap for Copy-based Garbage Collectors ato
 Usenix ATC'2021, PYLIVE: On-the-Fly Code Change for Python-based Online Services, <https://www.usenix.org/conference/atc21/presentation/huang-haochen>
 
 ASPLOS'2022, Best Paper Awards, Understanding and Exploiting Optimal Function Inlining, <https://dl.acm.org/doi/pdf/10.1145/3503222.3507744>
+
+ASPLOS'2022, Best Paper Awards, TMO: Transparent Memory Offloading in Datacenters, <https://dl.acm.org/doi/pdf/10.1145/3503222.3507731>
