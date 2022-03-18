@@ -74,3 +74,5 @@ Usenix ATC'2021, PYLIVE: On-the-Fly Code Change for Python-based Online Services
 Racket入门：<https://tyrchen.github.io/racket-book/begin.html>
 
 Multithreaded Programming Guide (mainly about pthreads): <https://docs.oracle.com/cd/E19683-01/806-6867/index.html>
+
+《机器学习系统：设计和实现》：<https://openmlsys.github.io/index.html> & <https://github.com/d2l-ai/d2l-en>
