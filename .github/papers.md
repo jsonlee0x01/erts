@@ -13,3 +13,5 @@ ASPLOS'2022, Best Paper Awards, TMO: Transparent Memory Offloading in Datacenter
 ASPLOS'2022, Vector Instruction Selection for Digital Signal Processors using Program Synthesis, <https://dl.acm.org/doi/10.1145/3503222.3507714>
 
 IISWC'2021, Characterizing and Demystifying the Implicit Convolution Algorithm on Commercial Matrix-Multiplication Accelerators, <https://arxiv.org/abs/2110.03901>
+
+Pointer Analysis, make it clean: <https://groups.seas.harvard.edu/courses/cs252/2011sp/slides/Lec06-PointerAnalysis.pdf>
