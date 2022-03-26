@@ -14,4 +14,4 @@ ASPLOS'2022, Vector Instruction Selection for Digital Signal Processors using Pr
 
 IISWC'2021, Characterizing and Demystifying the Implicit Convolution Algorithm on Commercial Matrix-Multiplication Accelerators, <https://arxiv.org/abs/2110.03901>
 
-Pointer Analysis, make it clean: <https://groups.seas.harvard.edu/courses/cs252/2011sp/slides/Lec06-PointerAnalysis.pdf>
+CS 252r: Advanced Topics in Programming Languages, Pointer Analysis, make it clean: <https://groups.seas.harvard.edu/courses/cs252/2011sp/slides/Lec06-PointerAnalysis.pdf> & <https://groups.seas.harvard.edu/courses/cs252/2011sp/>, topics: Dataflow analysis, Abstract interpretation, Symbolic execution, Pointer alias, and shape analysis, Control-flow analysis, Interprocedural analysis, Model checking, Dynamic analysis, Efficient data structures and program representations for analysis
