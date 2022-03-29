@@ -76,3 +76,5 @@ Racket入门：<https://tyrchen.github.io/racket-book/begin.html>
 Multithreaded Programming Guide (mainly about pthreads): <https://docs.oracle.com/cd/E19683-01/806-6867/index.html>
 
 《机器学习系统：设计和实现》：<https://openmlsys.github.io/index.html> & <https://github.com/d2l-ai/d2l-en>
+
+Graceful shutdown of asyncio coroutines: <https://stackoverflow.com/questions/37417595/graceful-shutdown-of-asyncio-coroutines>
