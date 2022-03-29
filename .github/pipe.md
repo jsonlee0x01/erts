@@ -78,3 +78,5 @@ Multithreaded Programming Guide (mainly about pthreads): <https://docs.oracle.co
 《机器学习系统：设计和实现》：<https://openmlsys.github.io/index.html> & <https://github.com/d2l-ai/d2l-en>
 
 Graceful shutdown of asyncio coroutines: <https://stackoverflow.com/questions/37417595/graceful-shutdown-of-asyncio-coroutines>
+
+Go语言中如何优雅地关闭通道：<https://gfw.go101.org/article/channel-closing.html>
