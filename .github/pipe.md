@@ -80,3 +80,5 @@ Multithreaded Programming Guide (mainly about pthreads): <https://docs.oracle.co
 Graceful shutdown of asyncio coroutines: <https://stackoverflow.com/questions/37417595/graceful-shutdown-of-asyncio-coroutines>
 
 Go语言中如何优雅地关闭通道：<https://gfw.go101.org/article/channel-closing.html>
+
+pthread thread local API：<https://blog.csdn.net/vevenlcf/article/details/77882985>
