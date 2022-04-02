@@ -83,4 +83,4 @@ Go语言中如何优雅地关闭通道：<https://gfw.go101.org/article/channel-
 
 pthread thread local API：<https://blog.csdn.net/vevenlcf/article/details/77882985>
 
-JVM PC寄存器：<https://blog.csdn.net/m0_37989980/article/details/111223885>
+JVM PC寄存器：<https://blog.csdn.net/m0_37989980/article/details/111223885> & 地址转换：<https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/15.pdf>
