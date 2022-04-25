@@ -90,3 +90,5 @@ docker镜像导入、导出（export & import）: <https://www.hangge.com/blog/c
 Android Bionic C elf tls layout: <https://android.googlesource.com/platform/bionic/+/HEAD/docs/elf-tls.md>
 
 glibc musl elibc... libc comparisons: <http://events17.linuxfoundation.org/sites/events/files/slides/libc-talk.pdf> & <https://elinux.org/images/8/8b/Room_For_Cooperation-_Bionic_and_musl.pdf>
+
+<https://stackoverflow.com/questions/14530590/implementing-thread-local-storage-in-custom-libc> & <https://maskray.me/blog/2021-02-14-all-about-thread-local-storage>
