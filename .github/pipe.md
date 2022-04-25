@@ -92,3 +92,5 @@ Android Bionic C elf tls layout: <https://android.googlesource.com/platform/bion
 glibc musl elibc... libc comparisons: <http://events17.linuxfoundation.org/sites/events/files/slides/libc-talk.pdf> & <https://elinux.org/images/8/8b/Room_For_Cooperation-_Bionic_and_musl.pdf>
 
 <https://stackoverflow.com/questions/14530590/implementing-thread-local-storage-in-custom-libc> & <https://maskray.me/blog/2021-02-14-all-about-thread-local-storage>
+
+Writing a Simple Garbage Collector in C: <https://maplant.com/gc.html>
