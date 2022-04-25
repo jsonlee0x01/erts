@@ -86,3 +86,5 @@ pthread thread local API：<https://blog.csdn.net/vevenlcf/article/details/77882
 JVM PC寄存器：<https://blog.csdn.net/m0_37989980/article/details/111223885> & 地址转换：<https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/15.pdf>
 
 docker镜像导入、导出（export & import）: <https://www.hangge.com/blog/cache/detail_2411.html>
+
+android elf tls layout: <https://android.googlesource.com/platform/bionic/+/HEAD/docs/elf-tls.md>
