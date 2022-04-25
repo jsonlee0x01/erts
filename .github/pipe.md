@@ -87,4 +87,6 @@ JVM PC寄存器：<https://blog.csdn.net/m0_37989980/article/details/111223885> 
 
 docker镜像导入、导出（export & import）: <https://www.hangge.com/blog/cache/detail_2411.html>
 
-android elf tls layout: <https://android.googlesource.com/platform/bionic/+/HEAD/docs/elf-tls.md>
+Android Bionic C elf tls layout: <https://android.googlesource.com/platform/bionic/+/HEAD/docs/elf-tls.md>
+
+glibc musl elibc... libc comparisons: <http://events17.linuxfoundation.org/sites/events/files/slides/libc-talk.pdf> & <https://elinux.org/images/8/8b/Room_For_Cooperation-_Bionic_and_musl.pdf>
