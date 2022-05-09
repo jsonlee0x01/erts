@@ -94,3 +94,5 @@ glibc musl elibc... libc comparisons: <http://events17.linuxfoundation.org/sites
 <https://stackoverflow.com/questions/14530590/implementing-thread-local-storage-in-custom-libc> & <https://maskray.me/blog/2021-02-14-all-about-thread-local-storage>
 
 Writing a Simple Garbage Collector in C: <https://maplant.com/gc.html>
+
+`cat /proc/pid/status`含义：<https://stackoverflow.com/questions/10400751/how-do-vmrss-and-resident-set-size-match>
