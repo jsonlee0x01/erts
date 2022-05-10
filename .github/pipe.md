@@ -96,3 +96,5 @@ glibc musl elibc... libc comparisons: <http://events17.linuxfoundation.org/sites
 Writing a Simple Garbage Collector in C: <https://maplant.com/gc.html>
 
 `cat /proc/pid/status`含义：<https://stackoverflow.com/questions/10400751/how-do-vmrss-and-resident-set-size-match>
+
+VSS、RSS、PSS和USS图解：<https://blog.csdn.net/whbing1471/article/details/105523704>
