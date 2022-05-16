@@ -98,3 +98,5 @@ Writing a Simple Garbage Collector in C: <https://maplant.com/gc.html>
 `cat /proc/pid/status`含义：<https://stackoverflow.com/questions/10400751/how-do-vmrss-and-resident-set-size-match>
 
 VSS、RSS、PSS和USS图解：<https://blog.csdn.net/whbing1471/article/details/105523704>
+
+Building Faster AMD64 Memset Routines: <https://msrc-blog.microsoft.com/2021/01/11/building-faster-amd64-memset-routines/> & <https://github.com/nadavrot/memset_benchmark>
