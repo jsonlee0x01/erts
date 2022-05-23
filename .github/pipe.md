@@ -100,3 +100,5 @@ Writing a Simple Garbage Collector in C: <https://maplant.com/gc.html>
 VSS、RSS、PSS和USS图解：<https://blog.csdn.net/whbing1471/article/details/105523704>
 
 Building Faster AMD64 Memset Routines: <https://msrc-blog.microsoft.com/2021/01/11/building-faster-amd64-memset-routines/> & <https://github.com/nadavrot/memset_benchmark>
+
+dollar sign in variable name for c/cpp: <https://stackoverflow.com/questions/7926394/dollar-sign-in-variable-name>
