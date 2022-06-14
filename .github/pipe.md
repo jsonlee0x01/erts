@@ -102,3 +102,5 @@ VSS、RSS、PSS和USS图解：<https://blog.csdn.net/whbing1471/article/details/
 Building Faster AMD64 Memset Routines: <https://msrc-blog.microsoft.com/2021/01/11/building-faster-amd64-memset-routines/> & <https://github.com/nadavrot/memset_benchmark>
 
 dollar sign in variable name for c/cpp: <https://stackoverflow.com/questions/7926394/dollar-sign-in-variable-name>
+
+Is there a non Java alternative to OSGi? <https://stackoverflow.com/questions/9249708/is-there-a-non-java-alternative-to-osgi>
