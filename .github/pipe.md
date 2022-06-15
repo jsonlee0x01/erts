@@ -106,3 +106,5 @@ dollar sign in variable name for c/cpp: <https://stackoverflow.com/questions/792
 Is there a non Java alternative to OSGi? <https://stackoverflow.com/questions/9249708/is-there-a-non-java-alternative-to-osgi>
 
 Computer Language Benchmark Game: <https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html>
+
+张汉东，2021 Rust行业调研报告：<https://zhuanlan.zhihu.com/p/383034421>
