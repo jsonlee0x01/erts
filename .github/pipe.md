@@ -104,3 +104,5 @@ Building Faster AMD64 Memset Routines: <https://msrc-blog.microsoft.com/2021/01/
 dollar sign in variable name for c/cpp: <https://stackoverflow.com/questions/7926394/dollar-sign-in-variable-name>
 
 Is there a non Java alternative to OSGi? <https://stackoverflow.com/questions/9249708/is-there-a-non-java-alternative-to-osgi>
+
+Computer Language Benchmark Game: <https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html>
