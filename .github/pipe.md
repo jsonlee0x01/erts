@@ -108,3 +108,5 @@ Is there a non Java alternative to OSGi? <https://stackoverflow.com/questions/92
 Computer Language Benchmark Game: <https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html>
 
 张汉东，2021 Rust行业调研报告：<https://zhuanlan.zhihu.com/p/383034421>
+
+go tool objdump -S ./exe > exe.asm <https://stackoverflow.com/questions/23789951/easy-to-read-golang-assembly-output>
