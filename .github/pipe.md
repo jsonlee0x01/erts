@@ -112,3 +112,9 @@ Computer Language Benchmark Game: <https://benchmarksgame-team.pages.debian.net/
 go tool objdump -S ./exe > exe.asm <https://stackoverflow.com/questions/23789951/easy-to-read-golang-assembly-output>
 
 LLVM CodeGen: <https://cnlelema.github.io/memo/en/codegen/>
+
+CPU中的微码含义：<https://decodezp.github.io/2020/07/12/quickwords44-microcode/>
+
+国防科大，张春元，基于流处理器的完全可编程SDN芯片：<https://fast-switch.github.io/wiki/%E5%BC%A0%E6%98%A5%E5%85%83-%E5%9F%BA%E4%BA%8E%E6%B5%81%E5%A4%84%E7%90%86%E5%99%A8%E7%9A%84%E5%AE%8C%E5%85%A8%E5%8F%AF%E7%BC%96%E7%A8%8BSDN%E5%A4%84%E7%90%86%E5%99%A8%20-%20tjeo4.pdf>
+
+FAST：基于FPGA的SDN交换机开源项目, <https://fast-switch.github.io/fast-articles/1.html>
