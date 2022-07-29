@@ -19,3 +19,5 @@ CS 252r: Advanced Topics in Programming Languages, Pointer Analysis, make it cle
 Science'2020, There’s plenty of room at the Top: What will drive computer performance after Moore’s law?
 
 Timed C in embedded system programming: <https://people.kth.se/~dbro/papers/natarajan-broman-2018-timed-c.pdf>
+
+AI for System: <https://microsoft.github.io/AI-System/SystemforAI-14-AI%20for%20Systems.pdf>
