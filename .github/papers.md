@@ -17,3 +17,5 @@ IISWC'2021, Characterizing and Demystifying the Implicit Convolution Algorithm o
 CS 252r: Advanced Topics in Programming Languages, Pointer Analysis, make it clean: <https://groups.seas.harvard.edu/courses/cs252/2011sp/slides/Lec06-PointerAnalysis.pdf> & <https://groups.seas.harvard.edu/courses/cs252/2011sp/>, topics: Dataflow analysis, Abstract interpretation, Symbolic execution, Pointer alias, and shape analysis, Control-flow analysis, Interprocedural analysis, Model checking, Dynamic analysis, Efficient data structures and program representations for analysis
 
 Science'2020, There’s plenty of room at the Top: What will drive computer performance after Moore’s law?
+
+Timed C in embedded system programming: <https://people.kth.se/~dbro/papers/natarajan-broman-2018-timed-c.pdf>
