@@ -24,3 +24,4 @@ AI for System: <https://microsoft.github.io/AI-System/SystemforAI-14-AI%20for%20
 
 DB oriented OS: <https://www.csail.mit.edu/research/dbos-database-oriented-operating-system-0>
 CIDR'2022, A Progress Report on DBOS: A Database-oriented Operating System, <https://cs.stanford.edu/~matei/papers/2022/cidr_dbos.pdf>
+DBOS: A DBMS-oriented Operating System, https://petereliaskraft.net/res/dbos-vldb.pdf
