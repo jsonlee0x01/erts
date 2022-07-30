@@ -21,3 +21,6 @@ Science'2020, There’s plenty of room at the Top: What will drive computer perf
 Timed C in embedded system programming: <https://people.kth.se/~dbro/papers/natarajan-broman-2018-timed-c.pdf>
 
 AI for System: <https://microsoft.github.io/AI-System/SystemforAI-14-AI%20for%20Systems.pdf>
+
+DB oriented OS: <https://www.csail.mit.edu/research/dbos-database-oriented-operating-system-0>
+CIDR'2022, A Progress Report on DBOS: A Database-oriented Operating System, <https://cs.stanford.edu/~matei/papers/2022/cidr_dbos.pdf>
