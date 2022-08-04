@@ -122,3 +122,6 @@ FAST：基于FPGA的SDN交换机开源项目, <https://fast-switch.github.io/fas
 宇宙问题终极答案数字42的来源：<https://stackoverflow.com/questions/39366400/why-is-it-exit42> & 42的文学意义：42是道格拉斯·亚当斯所作的小说《银河系漫游指南》中“生命、宇宙以及任何事情的终极答案”的答案，由于该作品的广泛流传，而成为在其他行业借此对该作品的致敬。<https://baike.baidu.com/item/42/16630643>
 
 Why do shell script comparisons often use x$VAR = xyes? <https://stackoverflow.com/questions/174119/why-do-shell-script-comparisons-often-use-xvar-xyes>
+
+LibOS, Library OS is the New Container: <https://gramineproject.io/resources/OSS_EU18_LIBRARY_OS_TALK_CHIA_CHE_TSAI.pdf>
+
