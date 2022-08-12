@@ -126,3 +126,5 @@ Why do shell script comparisons often use x$VAR = xyes? <https://stackoverflow.c
 LibOS, Library OS is the New Container: <https://gramineproject.io/resources/OSS_EU18_LIBRARY_OS_TALK_CHIA_CHE_TSAI.pdf>
 
 二维数组和二维指针：<https://juejin.cn/post/6966585817737199647>
+
+Pointer initialisation gives segmentation fault: <https://stackoverflow.com/questions/17873561/pointer-initialisation-gives-segmentation-fault>
