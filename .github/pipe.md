@@ -132,3 +132,5 @@ Pointer initialisation gives segmentation fault: <https://stackoverflow.com/ques
 shell scp expect免密拷贝：<https://www.cnblogs.com/hunttown/p/5470456.html>
 
 python lightweight csv writer for pandas: <https://www.geeksforgeeks.org/writing-csv-files-in-python/>
+
+Bad owner or permissions on ~/.ssh/config: <https://www.jianshu.com/p/325cd01284e9>
