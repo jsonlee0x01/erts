@@ -29,3 +29,5 @@ DB oriented OS: <https://www.csail.mit.edu/research/dbos-database-oriented-opera
 CIDR'2022, A Progress Report on DBOS: A Database-oriented Operating System, <https://cs.stanford.edu/~matei/papers/2022/cidr_dbos.pdf>
 
 DBOS: A DBMS-oriented Operating System, https://petereliaskraft.net/res/dbos-vldb.pdf
+
+Scalability Modeling using Universal Scalability Law (USL): <https://wso2.com/blog/research/scalability-modeling-using-universal-scalability-law/>
