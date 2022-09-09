@@ -129,6 +129,8 @@ LibOS, Library OS is the New Container: <https://gramineproject.io/resources/OSS
 
 Pointer initialisation gives segmentation fault: <https://stackoverflow.com/questions/17873561/pointer-initialisation-gives-segmentation-fault>
 
+C宏函数可变无参示例：<https://blog.csdn.net/u012707739/article/details/80170671>
+
 shell scp expect免密拷贝：<https://www.cnblogs.com/hunttown/p/5470456.html>
 
 python lightweight csv writer for pandas: <https://www.geeksforgeeks.org/writing-csv-files-in-python/>
