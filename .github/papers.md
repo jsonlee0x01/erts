@@ -33,3 +33,5 @@ DBOS: A DBMS-oriented Operating System, https://petereliaskraft.net/res/dbos-vld
 Scalability Modeling using Universal Scalability Law (USL): <https://wso2.com/blog/research/scalability-modeling-using-universal-scalability-law/>
 
 Naive RC操作插入原理: <https://gitee.com/openarkcompiler/OpenArkCompiler/blob/master/doc/cn/NaiveRcInsertionDescription.md>
+
+Lua Coroutine Operational Semantics with lambda-calculus: <http://www.inf.puc-rio.br/~roberto/docs/corosblp.pdf>
