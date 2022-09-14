@@ -136,3 +136,7 @@ shell scp expect免密拷贝：<https://www.cnblogs.com/hunttown/p/5470456.html>
 python lightweight csv writer for pandas: <https://www.geeksforgeeks.org/writing-csv-files-in-python/>
 
 Bad owner or permissions on ~/.ssh/config: <https://www.jianshu.com/p/325cd01284e9>
+
+Cache的写回策略：<https://www.cnblogs.com/east1203/p/11572963.html>
+
+Cache直接映射、组相连映射以及全相连映射：<https://www.cnblogs.com/east1203/p/11572500.html>
