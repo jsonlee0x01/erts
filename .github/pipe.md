@@ -140,3 +140,5 @@ Bad owner or permissions on ~/.ssh/config: <https://www.jianshu.com/p/325cd01284
 Cache的写回策略：<https://www.cnblogs.com/east1203/p/11572963.html>
 
 Cache直接映射、组相连映射以及全相连映射：<https://www.cnblogs.com/east1203/p/11572500.html>
+
+memory leak wrapper: <https://stackoverflow.com/questions/262439/create-a-wrapper-function-for-malloc-and-free-in-c>
