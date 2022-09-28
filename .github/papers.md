@@ -35,3 +35,5 @@ Scalability Modeling using Universal Scalability Law (USL): <https://wso2.com/bl
 Naive RC操作插入原理: <https://gitee.com/openarkcompiler/OpenArkCompiler/blob/master/doc/cn/NaiveRcInsertionDescription.md>
 
 Lua Coroutine Operational Semantics with lambda-calculus: <http://www.inf.puc-rio.br/~roberto/docs/corosblp.pdf>
+
+图灵税Turing Tax Discussion from Paul H J Kelly: <https://www.doc.ic.ac.uk/~phjk/AdvancedCompArchitecture/Lectures/pdfs/Ch01-part4-TuringTaxDiscussion.pdf>
