@@ -37,3 +37,7 @@ Naive RC操作插入原理: <https://gitee.com/openarkcompiler/OpenArkCompiler/b
 Lua Coroutine Operational Semantics with lambda-calculus: <http://www.inf.puc-rio.br/~roberto/docs/corosblp.pdf>
 
 图灵税Turing Tax Discussion from Paul H J Kelly: <https://www.doc.ic.ac.uk/~phjk/AdvancedCompArchitecture/Lectures/pdfs/Ch01-part4-TuringTaxDiscussion.pdf>
+
+Universal circuits (Preliminary Report): <https://www.iacr.org/conferences/eurocrypt2016/slides-conf/kiss.pdf> & <https://dl.acm.org/doi/pdf/10.1145/800113.803649> & <http://encrypto.de/papers/KS16.pdf>
+
+牧本次生曲线，通用性和专用性： <https://www.shmj.or.jp/makimoto/en/pdf/makimoto_E_01_13.pdf> & <https://zh.m.wikipedia.org/zh-hans/%E7%89%A7%E6%9C%AC%E6%B5%AA%E6%BD%AE>
