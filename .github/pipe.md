@@ -144,3 +144,5 @@ Cache直接映射、组相连映射以及全相连映射：<https://www.cnblogs.
 memory leak wrapper: <https://stackoverflow.com/questions/262439/create-a-wrapper-function-for-malloc-and-free-in-c>
 
 Actor分类：<https://medium.com/nerd-for-tech/anatomy-of-a-microservice-c52b3cb30d30>
+
+编译器中间表示: LLVM IR, SPIR-V 以及 MLIR, <https://www.lei.chat/zh/posts/compilers-and-irs-llvm-ir-spirv-and-mlir/>
