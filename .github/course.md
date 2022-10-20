@@ -7,7 +7,8 @@
 - <https://www.cs.drexel.edu/~spiros/teaching/CS576/slides/9.reliability.pdf>
 - <https://www.csm.ornl.gov/~sheldon/cs422/slides/Ch18.pdf>
 - The First 50 Years of Software Reliability Engineering: A History of SRE with First Person Accounts, <https://arxiv.org/pdf/1902.06140.pdf>
-- NJU, Foundations of Programming Languages, by xinyu feng: <https://cs.nju.edu.cn/xyfeng/teaching/FOPL/lectureNotes/index.html>
+- NJU, Foundations of Programming Languages, by Xinyu Feng, <https://cs.nju.edu.cn/xyfeng/teaching/FOPL/lectureNotes/index.html>
+- Yale University, CS 528/428: Language-Based Security, by Zhong Shao, <https://flint.cs.yale.edu/cs428/>
 
 ## LLVM eBPF
 
