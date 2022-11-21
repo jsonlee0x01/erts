@@ -16,3 +16,7 @@
 - Creating Complex Network Services with eBPF: Experience and Lessons Learned, <https://ieeexplore.ieee.org/abstract/document/8850758>
 - The BSD Packet Filter: A New Architecture for User-level Packet Capture<https://pdfs.semanticscholar.org/512c/783a5ac11f5664bada3c26175ee730a2cfab.pdf>
 - LLVM eBPF汇编：<https://arthurchiao.art/blog/ebpf-assembly-with-llvm-zh/> & <https://qmonnet.github.io/whirl-offload/2020/04/12/llvm-ebpf-asm/>
+
+## Memory
+
+- Shared-Memory Synchronization, by Michael L. Scott：<https://lionelee.github.io/SMS/#/> & <https://link.springer.com/book/10.1007/978-3-031-01740-7>
