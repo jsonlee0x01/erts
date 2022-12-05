@@ -43,3 +43,5 @@ Universal circuits (Preliminary Report): <https://www.iacr.org/conferences/euroc
 牧本次生曲线，通用性和专用性： <https://www.shmj.or.jp/makimoto/en/pdf/makimoto_E_01_13.pdf> & <https://zh.m.wikipedia.org/zh-hans/%E7%89%A7%E6%9C%AC%E6%B5%AA%E6%BD%AE>
 
 MCUNet: Tiny Deep Learning on IoT Devices, <https://mcunet.mit.edu/>
+
+Denotational Semantics, A Methodology for Language Development, <https://people.cs.ksu.edu/~schmidt/text/DenSem-full-book.pdf>
