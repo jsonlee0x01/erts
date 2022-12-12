@@ -148,3 +148,5 @@ Actor分类：<https://medium.com/nerd-for-tech/anatomy-of-a-microservice-c52b3c
 编译器中间表示: LLVM IR, SPIR-V 以及 MLIR, <https://www.lei.chat/zh/posts/compilers-and-irs-llvm-ir-spirv-and-mlir/>
 
 gdb中忽略信号处理：<https://www.cnblogs.com/qiangxia/p/4738824.html> & <https://stackoverflow.com/questions/35448423/how-gdb-handles-sigsegv>
+
+call printf using va-list: <https://stackoverflow.com/questions/5977326/call-printf-using-va-list>
