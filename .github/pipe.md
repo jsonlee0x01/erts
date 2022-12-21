@@ -150,3 +150,5 @@ Actor分类：<https://medium.com/nerd-for-tech/anatomy-of-a-microservice-c52b3c
 gdb中忽略信号处理：<https://www.cnblogs.com/qiangxia/p/4738824.html> & <https://stackoverflow.com/questions/35448423/how-gdb-handles-sigsegv>
 
 call printf using va-list: <https://stackoverflow.com/questions/5977326/call-printf-using-va-list>
+
+【Book】Binary Hacks,黑客秘籍100选：<https://github.com/phanirajkiran/pdf_book>
