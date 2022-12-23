@@ -152,3 +152,5 @@ gdb中忽略信号处理：<https://www.cnblogs.com/qiangxia/p/4738824.html> & <
 call printf using va-list: <https://stackoverflow.com/questions/5977326/call-printf-using-va-list>
 
 【Book】Binary Hacks,黑客秘籍100选：<https://github.com/phanirajkiran/pdf_book>
+
+gdb pin record on: https://sourceware.org/gdb/onlinedocs/gdb/Process-Record-and-Replay.html
