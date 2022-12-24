@@ -45,3 +45,7 @@ Universal circuits (Preliminary Report): <https://www.iacr.org/conferences/euroc
 MCUNet: Tiny Deep Learning on IoT Devices, <https://mcunet.mit.edu/>
 
 Denotational Semantics, A Methodology for Language Development, <https://people.cs.ksu.edu/~schmidt/text/DenSem-full-book.pdf>
+
+Parallel STL: <https://docs.oneapi.io/versions/latest/onedpl/pstl_main.html>
+
+MICRO'2022, OCOLOS: Online COde Layout OptimizationS, <https://people.ucsc.edu/~hlitz/papers/ocolos.pdf>
