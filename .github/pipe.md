@@ -154,3 +154,5 @@ call printf using va-list: <https://stackoverflow.com/questions/5977326/call-pri
 【Book】Binary Hacks,黑客秘籍100选：<https://github.com/phanirajkiran/pdf_book>
 
 gdb pin record on: https://sourceware.org/gdb/onlinedocs/gdb/Process-Record-and-Replay.html
+
+Making your code citable: <https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content>
