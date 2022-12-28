@@ -156,3 +156,5 @@ call printf using va-list: <https://stackoverflow.com/questions/5977326/call-pri
 gdb pin record on: https://sourceware.org/gdb/onlinedocs/gdb/Process-Record-and-Replay.html
 
 Making your code citable: <https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content>
+
+DPDK：<https://zzqcn.github.io/opensource/dpdk/hf-dpdk/intro.html>
