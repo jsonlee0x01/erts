@@ -51,3 +51,5 @@ Parallel STL: <https://docs.oneapi.io/versions/latest/onedpl/pstl_main.html>
 MICRO'2022, OCOLOS: Online COde Layout OptimizationS, <https://people.ucsc.edu/~hlitz/papers/ocolos.pdf>
 
 DSU: <https://www.researchgate.net/publication/315865996_Improving_Reliability_of_Dynamic_Software_Updating_Using_Runtime_Recovery>
+
+What every systems programmer should know about concurrency: <https://assets.bitbashing.io/papers/concurrency-primer.pdf>
