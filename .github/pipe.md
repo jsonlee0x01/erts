@@ -158,3 +158,5 @@ gdb pin record on: https://sourceware.org/gdb/onlinedocs/gdb/Process-Record-and-
 Making your code citable: <https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content>
 
 DPDK：<https://zzqcn.github.io/opensource/dpdk/hf-dpdk/intro.html>
+
+源码阅读工具，opengrok：<https://mazhuang.org/2016/12/14/rtfsc-with-opengrok/>
