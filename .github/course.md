@@ -20,3 +20,7 @@
 ## Memory
 
 - Shared-Memory Synchronization, by Michael L. Scott：<https://lionelee.github.io/SMS/#/> & <https://link.springer.com/book/10.1007/978-3-031-01740-7>
+
+## DB
+
+- CSE 707: Seminar on Modern Database Systems (Fall 2021) <https://cse.buffalo.edu/~zzhao35/teaching/cse707_fall21/>
