@@ -163,4 +163,6 @@ DPDK：<https://zzqcn.github.io/opensource/dpdk/hf-dpdk/intro.html>
 
 x86 SIMD优化典型示例：<https://zhuanlan.zhihu.com/p/55327037>
 
+x64 and neon simd: <http://const.me/articles/simd/>
+
 Software optimization resources for x86 and x86-64 family microprocessors: <https://www.agner.org/optimize/> & <https://www.agner.org/optimize/optimizing_assembly.pdf>
