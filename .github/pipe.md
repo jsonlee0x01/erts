@@ -160,3 +160,5 @@ Making your code citable: <https://docs.github.com/en/repositories/archiving-a-g
 DPDK：<https://zzqcn.github.io/opensource/dpdk/hf-dpdk/intro.html>
 
 源码阅读工具，opengrok：<https://mazhuang.org/2016/12/14/rtfsc-with-opengrok/>
+
+x86 SIMD优化典型示例：<https://zhuanlan.zhihu.com/p/55327037>
