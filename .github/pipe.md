@@ -170,3 +170,5 @@ Software optimization resources for x86 and x86-64 family microprocessors: <http
 ARM MRS指令的用途：<https://www.eet-china.com/mp/a32962.html>
 
 ARMv8/aarch64下TSC（Time Stamp Counter）读取方法：<http://ilinuxkernel.com/?p=1755%3E>
+
+Pitfalls of TSC Usage: <http://oliveryang.net/2015/09/pitfalls-of-TSC-usage/>
