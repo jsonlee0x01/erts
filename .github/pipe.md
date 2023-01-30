@@ -166,3 +166,7 @@ x86 SIMD优化典型示例：<https://zhuanlan.zhihu.com/p/55327037>
 x64 and neon simd: <http://const.me/articles/simd/>
 
 Software optimization resources for x86 and x86-64 family microprocessors: <https://www.agner.org/optimize/> & <https://www.agner.org/optimize/optimizing_assembly.pdf>
+
+ARM MRS指令的用途：<https://www.eet-china.com/mp/a32962.html>
+
+ARMv8/aarch64下TSC（Time Stamp Counter）读取方法：<http://ilinuxkernel.com/?p=1755%3E>
