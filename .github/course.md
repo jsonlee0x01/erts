@@ -25,3 +25,7 @@
 ## DB
 
 - CSE 707: Seminar on Modern Database Systems (Fall 2021) <https://cse.buffalo.edu/~zzhao35/teaching/cse707_fall21/>
+
+## Network Systems
+
+- Architecture of Network Systems, <https://www.sciencedirect.com/book/9780123744944/architecture-of-network-systems>
