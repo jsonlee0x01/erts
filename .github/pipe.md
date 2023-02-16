@@ -176,3 +176,5 @@ Pitfalls of TSC Usage: <http://www.wangkaixuan.tech/?p=901> <http://oliveryang.n
 gcc常见的二进制位处理builtin函数：<https://www.cnblogs.com/nysanier/archive/2011/04/19/2020778.html>
 
 7-Zip LZMA Benchmark: <https://www.7-cpu.com/>
+
+Java异常机制-从底层原理到使用实践：<https://blog.csdn.net/zzz_zjz/article/details/114107716>
