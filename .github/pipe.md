@@ -178,3 +178,5 @@ gcc常见的二进制位处理builtin函数：<https://www.cnblogs.com/nysanier/
 7-Zip LZMA Benchmark: <https://www.7-cpu.com/>
 
 Java异常机制-从底层原理到使用实践：<https://blog.csdn.net/zzz_zjz/article/details/114107716>
+
+for gcc it is (`-fdump-tree-all`) 'http://gcc.gnu.org/onlinedocs/gcc/Debugging-Options.html' with clang it is (-llvm `-print-after-all`)<https://stackoverflow.com/questions/15226668/get-assembly-code-after-every-optimization-gcc-makes>
