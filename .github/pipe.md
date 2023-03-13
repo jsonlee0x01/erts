@@ -182,3 +182,5 @@ Java异常机制-从底层原理到使用实践：<https://blog.csdn.net/zzz_zjz
 for gcc it is (`-fdump-tree-all`) 'http://gcc.gnu.org/onlinedocs/gcc/Debugging-Options.html' with clang it is (-llvm `-print-after-all`)<https://stackoverflow.com/questions/15226668/get-assembly-code-after-every-optimization-gcc-makes>
 
 perf性能分析，反汇编查看符号：<https://melonshell.github.io/2019/10/09/tool1_perf/>
+
+Intel处理器准确cycle统计方式，pair RDTSCP with a CPUID instruction which acts as a memory barrier: <https://developers.redhat.com/blog/2016/03/11/practical-micro-benchmarking-with-ltrace-and-sched>
