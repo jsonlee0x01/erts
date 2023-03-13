@@ -29,3 +29,7 @@
 ## Network Systems
 
 - Architecture of Network Systems, <https://www.sciencedirect.com/book/9780123744944/architecture-of-network-systems>
+
+## Performance Optimization
+
+- Software Performance Analysis <https://research.cs.queensu.ca/home/elgazzar/soft437/>
