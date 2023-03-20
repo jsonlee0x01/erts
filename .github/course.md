@@ -33,3 +33,7 @@
 ## Performance Optimization
 
 - Software Performance Analysis <https://research.cs.queensu.ca/home/elgazzar/soft437/>
+
+## Machine Learning for Compilers and Architecture
+
+- CS598CM, Machine Learning for Compilers and Architecture, <https://charithm.web.illinois.edu/cs598cm/fa2022/>
