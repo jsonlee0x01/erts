@@ -184,3 +184,5 @@ for gcc it is (`-fdump-tree-all`) 'http://gcc.gnu.org/onlinedocs/gcc/Debugging-O
 perf性能分析，反汇编查看符号：<https://melonshell.github.io/2019/10/09/tool1_perf/>
 
 Intel处理器准确cycle统计方式，pair RDTSCP with a CPUID instruction which acts as a memory barrier: <https://developers.redhat.com/blog/2016/03/11/practical-micro-benchmarking-with-ltrace-and-sched>
+
+commodity off-the-shelf, COTS, MOTS, GOTS, NOTS: <https://www.techtarget.com/searchdatacenter/definition/COTS-MOTS-GOTS-and-NOTS>
