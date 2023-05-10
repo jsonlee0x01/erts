@@ -188,3 +188,5 @@ Intel处理器准确cycle统计方式，pair RDTSCP with a CPUID instruction whi
 commodity off-the-shelf, COTS, MOTS, GOTS, NOTS: <https://www.techtarget.com/searchdatacenter/definition/COTS-MOTS-GOTS-and-NOTS>
 
 VPP Packet Processing Graph: <https://fd.io/docs/vpp/v2101/whatisvpp/extensible.html>
+
+Intel格式和AT&T格式汇编区别：<https://www.cnblogs.com/hdk1993/p/4820353.html>
