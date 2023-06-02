@@ -194,3 +194,5 @@ Intel格式和AT&T格式汇编区别：<https://www.cnblogs.com/hdk1993/p/482035
 QEMU PGO/LTO optimization: <https://www.talospace.com/2021/03/juicing-qemu-for-fun-and-profit.html>
 
 Fabrice Bellard: <https://bellard.org/> & Chris Lattner: <https://www.nondot.org/sabre/>
+
+QEMU TCG: <https://qemu-project.gitlab.io/qemu/devel/index-tcg.html>
