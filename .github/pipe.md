@@ -192,3 +192,5 @@ VPP Packet Processing Graph: <https://fd.io/docs/vpp/v2101/whatisvpp/extensible.
 Intel格式和AT&T格式汇编区别：<https://www.cnblogs.com/hdk1993/p/4820353.html>
 
 QEMU PGO/LTO optimization: <https://www.talospace.com/2021/03/juicing-qemu-for-fun-and-profit.html>
+
+Fabrice Bellard: <https://bellard.org/> & Chris Lattner: <https://www.nondot.org/sabre/>
