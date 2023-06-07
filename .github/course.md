@@ -34,6 +34,7 @@
 
 - Software Performance Analysis <https://research.cs.queensu.ca/home/elgazzar/soft437/>
 - 性能设计模式（Performance Patterns）：<https://research.cs.queensu.ca/home/elgazzar/soft437/lecture-notes/Chapter10.pdf>
+- Software Optimization Resources: <https://www.agner.org/optimize/>
 
 ## Machine Learning for Compilers and Architecture
 
