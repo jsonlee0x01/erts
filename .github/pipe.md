@@ -196,3 +196,9 @@ QEMU PGO/LTO optimization: <https://www.talospace.com/2021/03/juicing-qemu-for-f
 Fabrice Bellard: <https://bellard.org/> & Chris Lattner: <https://www.nondot.org/sabre/>
 
 QEMU TCG: <https://qemu-project.gitlab.io/qemu/devel/index-tcg.html>
+
+Effect Handler: <http://mrg.doc.ic.ac.uk/talks/2020/02/effect/slides.pdf> & EH示例：<https://juejin.cn/post/6844903976299675662>
+
+Ocaml Effect Handler: <https://v2.ocaml.org/manual/effects.html> & PL理论：<https://guest0x0.xyz/PL-and-universal-algebra/PL-and-universal-algebra.pdf>
+
+React中的代数效应：<https://mongkii.com/blog/2021-05-08-talk-about-algebraic-effects>
