@@ -201,4 +201,6 @@ Effect Handler: <http://mrg.doc.ic.ac.uk/talks/2020/02/effect/slides.pdf> & EH�
 
 Ocaml Effect Handler: <https://v2.ocaml.org/manual/effects.html> & PL理论：<https://guest0x0.xyz/PL-and-universal-algebra/PL-and-universal-algebra.pdf>
 
+Erlang Effect Handler: <https://dhil.net/research/papers/conc_system_prog_handlers-draft-may2017.pdf>
+
 React中的代数效应：<https://mongkii.com/blog/2021-05-08-talk-about-algebraic-effects>
