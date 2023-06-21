@@ -204,3 +204,5 @@ Ocaml Effect Handler: <https://v2.ocaml.org/manual/effects.html> & PL理论：<h
 Erlang Effect Handler: <https://dhil.net/research/papers/conc_system_prog_handlers-draft-may2017.pdf>
 
 React中的代数效应：<https://mongkii.com/blog/2021-05-08-talk-about-algebraic-effects>
+
+LLVM PGO example: <https://llvm.org/devmtg/2020-09/slides/PGO_Instrumentation.pdf>
