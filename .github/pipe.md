@@ -206,3 +206,5 @@ Erlang Effect Handler: <https://dhil.net/research/papers/conc_system_prog_handle
 React中的代数效应：<https://mongkii.com/blog/2021-05-08-talk-about-algebraic-effects>
 
 LLVM PGO example: <https://llvm.org/devmtg/2020-09/slides/PGO_Instrumentation.pdf>
+
+QEMU TCG documents: <https://qemu-project.gitlab.io/qemu/devel/index-tcg.html>
