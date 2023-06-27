@@ -57,3 +57,5 @@ What every systems programmer should know about concurrency: <https://assets.bit
 ClassBench: A Packet Classification Benchmark, <https://www.arl.wustl.edu/classbench/>
 
 Fifty Years of ISCA: A data-driven retrospective on key trends: <https://arxiv.org/ftp/arxiv/papers/2306/2306.03964.pdf>
+
+USENIX Security'2018,  Debloating Software through Piece-Wise Compilation and Loading: <https://www.usenix.org/sites/default/files/conference/protected-files/security18_slides_quach.pdf>
