@@ -55,3 +55,5 @@ DSU: <https://www.researchgate.net/publication/315865996_Improving_Reliability_o
 What every systems programmer should know about concurrency: <https://assets.bitbashing.io/papers/concurrency-primer.pdf>
 
 ClassBench: A Packet Classification Benchmark, <https://www.arl.wustl.edu/classbench/>
+
+Fifty Years of ISCA: A data-driven retrospective on key trends: <https://arxiv.org/ftp/arxiv/papers/2306/2306.03964.pdf>
