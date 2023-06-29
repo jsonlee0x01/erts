@@ -208,3 +208,5 @@ React中的代数效应：<https://mongkii.com/blog/2021-05-08-talk-about-algebr
 LLVM PGO example: <https://llvm.org/devmtg/2020-09/slides/PGO_Instrumentation.pdf>
 
 QEMU TCG documents: <https://qemu-project.gitlab.io/qemu/devel/index-tcg.html>
+
+X86汇编nasm tutorial: <https://cs.lmu.edu/~ray/notes/nasmtutorial/>
