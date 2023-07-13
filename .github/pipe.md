@@ -210,3 +210,5 @@ LLVM PGO example: <https://llvm.org/devmtg/2020-09/slides/PGO_Instrumentation.pd
 QEMU TCG documents: <https://qemu-project.gitlab.io/qemu/devel/index-tcg.html>
 
 X86汇编nasm tutorial: <https://cs.lmu.edu/~ray/notes/nasmtutorial/>
+
+A nice tiny project to learn meson build: <https://github.com/emersion/mrsh/tree/master>
