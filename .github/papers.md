@@ -61,3 +61,5 @@ Fifty Years of ISCA: A data-driven retrospective on key trends: <https://arxiv.o
 USENIX Security'2018,  Debloating Software through Piece-Wise Compilation and Loading: <https://www.usenix.org/sites/default/files/conference/protected-files/security18_slides_quach.pdf>
 
 "Run! Don't walk! Remember: either you are running for food; or you are running from becoming food. And often times, you can't tell which. Either way, run."<https://blogs.nvidia.com/blog/2023/05/26/huang-ntu-commencement/>
+
+Block-Aware Instruction Set Architecture: <https://dl.acm.org/doi/pdf/10.1145/1162690.1162694>
