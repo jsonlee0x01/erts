@@ -212,3 +212,5 @@ QEMU TCG documents: <https://qemu-project.gitlab.io/qemu/devel/index-tcg.html>
 X86汇编nasm tutorial: <https://cs.lmu.edu/~ray/notes/nasmtutorial/>
 
 A nice tiny project to learn meson build: <https://github.com/emersion/mrsh/tree/master>
+
+emoji密码学：<https://github.com/DrMofu/MLab_wechat/blob/main/weChat193_EmojiCryptography/EmojiCryptography.ipynb>； windows输入emoji，`win + ;`
