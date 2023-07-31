@@ -215,4 +215,4 @@ A nice tiny project to learn meson build: <https://github.com/emersion/mrsh/tree
 
 emoji密码学：<https://github.com/DrMofu/MLab_wechat/blob/main/weChat193_EmojiCryptography/EmojiCryptography.ipynb>； windows输入emoji，`win + ;`
 
-内存模型：out-of-thin-air read问题，<https://www.cl.cam.ac.uk/~pes20/cpp/notes42.html>
+内存模型：out-of-thin-air read问题，<https://www.cl.cam.ac.uk/~pes20/cpp/notes42.html> & C++内存模型：<https://www.think-cell.com/assets/en/career/talks/pdf/think-cell_talk_memorymodel.pdf>
