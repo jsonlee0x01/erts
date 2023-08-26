@@ -218,3 +218,5 @@ emoji密码学：<https://github.com/DrMofu/MLab_wechat/blob/main/weChat193_Emoj
 内存模型：out-of-thin-air read问题，<https://www.cl.cam.ac.uk/~pes20/cpp/notes42.html> & C++内存模型：<https://www.think-cell.com/assets/en/career/talks/pdf/think-cell_talk_memorymodel.pdf>
 
 大模型：Creating a Coding Assistant with StarCoder, <https://huggingface.co/blog/zh/starchat-alpha>
+
+Tricks for debugging QEMU — rr: <https://www.linaro.org/blog/tricks-for-debugging-qemu-rr/>
