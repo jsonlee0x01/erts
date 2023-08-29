@@ -222,3 +222,7 @@ emoji密码学：<https://github.com/DrMofu/MLab_wechat/blob/main/weChat193_Emoj
 Tricks for debugging QEMU — rr: <https://www.linaro.org/blog/tricks-for-debugging-qemu-rr/>
 
 WYSIWYG (what you see is what you get): <https://www.techtarget.com/whatis/definition/WYSIWYG-what-you-see-is-what-you-get#:~:text=WYSIWYG%20is%20an%20acronym%20for,having%20to%20type%20any%20commands.>
+
+LLVM bitcode file format: <https://blog.yossarian.net/2021/07/19/LLVM-internals-part-1-bitcode-format>
+
+Binary file visualize binvis.io: <https://binvis.io/#/>
