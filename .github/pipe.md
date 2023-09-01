@@ -226,3 +226,5 @@ WYSIWYG (what you see is what you get): <https://www.techtarget.com/whatis/defin
 LLVM bitcode file format: <https://blog.yossarian.net/2021/07/19/LLVM-internals-part-1-bitcode-format>
 
 Binary file visualize binvis.io: <https://binvis.io/#/>
+
+pwddbg cheatsheet: <https://cheatography.com/cactuarnation/cheat-sheets/gdb-and-pwndbg/>
