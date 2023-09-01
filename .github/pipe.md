@@ -228,3 +228,5 @@ LLVM bitcode file format: <https://blog.yossarian.net/2021/07/19/LLVM-internals-
 Binary file visualize binvis.io: <https://binvis.io/#/>
 
 pwddbg cheatsheet: <https://cheatography.com/cactuarnation/cheat-sheets/gdb-and-pwndbg/>
+
+gdb initfile set user define commands: <https://www.cse.unsw.edu.au/~learn/debugging/modules/gdb_init_file/>
