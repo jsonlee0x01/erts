@@ -21,6 +21,7 @@
 
 - Shared-Memory Synchronization, by Michael L. Scott：<https://lionelee.github.io/SMS/#/> & <https://link.springer.com/book/10.1007/978-3-031-01740-7>
 - CMU 15-745, Optimizing Compilers for Modern Architectures, Spring 2016, <http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15745-s16/www/syllabus.html>
+- Harvard, CS153 Compiler: <https://groups.seas.harvard.edu/courses/cs153/2019fa/lectures/Lec25-Garbage-collection.pdf> & <https://groups.seas.harvard.edu/courses/cs153/2019fa/schedule.html>
 
 ## DB
 
