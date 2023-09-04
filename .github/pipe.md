@@ -230,3 +230,5 @@ Binary file visualize binvis.io: <https://binvis.io/#/>
 pwddbg cheatsheet: <https://cheatography.com/cactuarnation/cheat-sheets/gdb-and-pwndbg/>
 
 gdb initfile set user define commands: <https://www.cse.unsw.edu.au/~learn/debugging/modules/gdb_init_file/>
+
+llvm compiler course: gc, <https://groups.seas.harvard.edu/courses/cs153/2019fa/lectures/Lec25-Garbage-collection.pdf>
