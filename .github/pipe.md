@@ -232,3 +232,5 @@ pwddbg cheatsheet: <https://cheatography.com/cactuarnation/cheat-sheets/gdb-and-
 gdb initfile set user define commands: <https://www.cse.unsw.edu.au/~learn/debugging/modules/gdb_init_file/>
 
 llvm compiler course: gc, <https://groups.seas.harvard.edu/courses/cs153/2019fa/lectures/Lec25-Garbage-collection.pdf>
+
+Intel Simics: <https://www.intel.com/content/www/us/en/developer/articles/tool/simics-simulator.html>
