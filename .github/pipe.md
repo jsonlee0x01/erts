@@ -236,3 +236,5 @@ llvm compiler course: gc, <https://groups.seas.harvard.edu/courses/cs153/2019fa/
 Intel Simics: <https://www.intel.com/content/www/us/en/developer/articles/tool/simics-simulator.html>
 
 X86中的PAUSE指令用途：<https://itecnote.com/tecnote/the-purpose-of-the-pause-instruction-in-x86/>
+
+Disable qemu tcg patch: <https://patchew.org/QEMU/1499076743-15477-1-git-send-email-yang.zhong@intel.com/>
