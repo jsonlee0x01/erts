@@ -25,6 +25,11 @@
 - CMU, LLVM Compiler Overview: <https://www.cs.cmu.edu/afs/cs/academic/class/15745-s15/public/lectures/L3-LLVM1-1up.pdf>
 - 小型化，软件瘦身，ISPASS'2022, Phase ordering for Optimizing Size and Execution Time using Reinforcement Learning: <https://arxiv.org/pdf/2208.04238.pdf> and slides <https://llvm.org/devmtg/2022-04-03/slides/POSET-RL.Phase.ordering.for.Optimizing.Size.and.Execution.Time.using.Reinforcement.Learning.pdf>
 
+## Managed Runtimes
+
+Mario Wolczko: <http://www.wolczko.com/>
+UCB CS294-113: Virtual Machines and Managed Runtimes: <http://www.wolczko.com/CS294/index.html>
+
 ## DB
 
 - CSE 707: Seminar on Modern Database Systems (Fall 2021) <https://cse.buffalo.edu/~zzhao35/teaching/cse707_fall21/>
