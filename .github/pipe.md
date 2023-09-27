@@ -240,3 +240,5 @@ X86中的PAUSE指令用途：<https://itecnote.com/tecnote/the-purpose-of-the-pa
 Disable qemu tcg patch: <https://patchew.org/QEMU/1499076743-15477-1-git-send-email-yang.zhong@intel.com/>
 
 qemu event loop: <http://blog.vmsplice.net/2020/08/qemu-internals-event-loops.html>
+
+ASPLOS'2023, TelaMalloc: Efficient On-Chip Memory Allocation for Production Machine Learning Accelerators, <https://www.micahlerner.com/2023/06/06/telamalloc-efficient-on-chip-memory-allocation-for-production-machine-learning-accelerators.html> & tensorflow-lite memory management: <https://blog.tensorflow.org/2020/10/optimizing-tensorflow-lite-runtime.html>
