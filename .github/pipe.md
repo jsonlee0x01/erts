@@ -238,3 +238,5 @@ Intel Simics: <https://www.intel.com/content/www/us/en/developer/articles/tool/s
 X86中的PAUSE指令用途：<https://itecnote.com/tecnote/the-purpose-of-the-pause-instruction-in-x86/>
 
 Disable qemu tcg patch: <https://patchew.org/QEMU/1499076743-15477-1-git-send-email-yang.zhong@intel.com/>
+
+qemu event loop: <http://blog.vmsplice.net/2020/08/qemu-internals-event-loops.html>
