@@ -244,3 +244,5 @@ qemu event loop: <http://blog.vmsplice.net/2020/08/qemu-internals-event-loops.ht
 ASPLOS'2023, TelaMalloc: Efficient On-Chip Memory Allocation for Production Machine Learning Accelerators, <https://www.micahlerner.com/2023/06/06/telamalloc-efficient-on-chip-memory-allocation-for-production-machine-learning-accelerators.html> & tensorflow-lite memory management: <https://blog.tensorflow.org/2020/10/optimizing-tensorflow-lite-runtime.html>
 
 cpp hot examples: <https://cpp.hotexamples.com/examples/-/ExecutionEngine/runFunction/cpp-executionengine-runfunction-method-examples.html>
+
+linux内核调试技巧：<https://github.com/g0dA/linuxStack/blob/master/linux%E5%86%85%E6%A0%B8%E8%B0%83%E8%AF%95%E6%8A%80%E5%B7%A7.md>
