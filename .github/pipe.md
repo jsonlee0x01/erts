@@ -250,3 +250,5 @@ linux内核调试技巧：<https://github.com/g0dA/linuxStack/blob/master/linux%
 How to get started with the LLVM C API: <https://www.pauladamsmith.com/blog/2015/01/how-to-get-started-with-llvm-c-api.html>
 
 RBMM discuss: <https://internals.rust-lang.org/t/memory-management-concepts/6330>
+
+zig compiler: <https://ziglang.org/learn/overview/>
