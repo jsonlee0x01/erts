@@ -24,6 +24,7 @@
 - Harvard, CS153 Compiler: <https://groups.seas.harvard.edu/courses/cs153/2019fa/lectures/Lec25-Garbage-collection.pdf> & <https://groups.seas.harvard.edu/courses/cs153/2019fa/schedule.html>
 - CMU, LLVM Compiler Overview: <https://www.cs.cmu.edu/afs/cs/academic/class/15745-s15/public/lectures/L3-LLVM1-1up.pdf>
 - 小型化，软件瘦身，ISPASS'2022, Phase ordering for Optimizing Size and Execution Time using Reinforcement Learning: <https://arxiv.org/pdf/2208.04238.pdf> and slides <https://llvm.org/devmtg/2022-04-03/slides/POSET-RL.Phase.ordering.for.Optimizing.Size.and.Execution.Time.using.Reinforcement.Learning.pdf>
+- GC相比于RBMM(Region based memory management): <https://dl.acm.org/doi/pdf/10.1145/1375634.1375644>
 
 ## Managed Runtimes
 
