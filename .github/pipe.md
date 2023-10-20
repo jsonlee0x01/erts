@@ -252,3 +252,5 @@ How to get started with the LLVM C API: <https://www.pauladamsmith.com/blog/2015
 RBMM discuss: <https://internals.rust-lang.org/t/memory-management-concepts/6330>
 
 zig compiler: <https://ziglang.org/learn/overview/>
+
+shadow page table: <https://fleurer.github.io/2013/05/19/shadow-quick-note/>
