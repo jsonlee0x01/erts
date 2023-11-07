@@ -48,3 +48,6 @@ UCB CS294-113: Virtual Machines and Managed Runtimes: <http://www.wolczko.com/CS
 ## Machine Learning for Compilers and Architecture
 
 - CS598CM, Machine Learning for Compilers and Architecture, <https://charithm.web.illinois.edu/cs598cm/fa2022/>
+
+## Binary Translation
+- <https://alanli.org/binary-translator/>
