@@ -51,3 +51,6 @@ UCB CS294-113: Virtual Machines and Managed Runtimes: <http://www.wolczko.com/CS
 
 ## Binary Translation
 - <https://alanli.org/binary-translator/>
+
+# Intermittent Computing
+- <https://cmuabstract.github.io/intermittence_tutorial/>
