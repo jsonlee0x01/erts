@@ -256,3 +256,5 @@ zig compiler: <https://ziglang.org/learn/overview/>
 shadow page table: <https://fleurer.github.io/2013/05/19/shadow-quick-note/>
 
 high performance gemm: <https://www.twisted-meadows.com/high-performance-gemm/>
+
+qemu 9pfs示例：<https://blog.csdn.net/gatieme/article/details/82912921>
