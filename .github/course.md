@@ -38,6 +38,7 @@ UCB CS294-113: Virtual Machines and Managed Runtimes: <http://www.wolczko.com/CS
 ## Network Systems
 
 - Architecture of Network Systems, <https://www.sciencedirect.com/book/9780123744944/architecture-of-network-systems>
+- HPC, Principles and Practices of Interconnection Networks, <http://franki66.free.fr/Principles%20and%20Practices%20of%20Interconnection%20Networks.pdf>
 
 ## Performance Optimization
 
