@@ -262,3 +262,5 @@ qemu 9pfs示例：<https://blog.csdn.net/gatieme/article/details/82912921>
 看雪论坛博客：QEMU tcg源码分析与unicorn原理，<https://bbs.kanxue.com/thread-277163.htm>
 
 Compiler Online tools, godbolt, <https://godbolt.org/>
+
+Measure QEMU TCG performance: <https://ahmedkrmn.github.io/TCG-Continuous-Benchmarking/Measuring-QEMU-Performance-in-System-Mode/>
