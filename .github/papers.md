@@ -65,3 +65,5 @@ USENIX Security'2018,  Debloating Software through Piece-Wise Compilation and Lo
 Block-Aware Instruction Set Architecture: <https://dl.acm.org/doi/pdf/10.1145/1162690.1162694>
 
 MemGPT: Towards LLMs as Operating Systems, <https://arxiv.org/abs/2310.08560>
+
+Myths and Legends in High-Performance Computing, <https://arxiv.org/pdf/2301.02432.pdf>
