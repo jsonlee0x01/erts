@@ -52,6 +52,7 @@ UCB CS294-113: Virtual Machines and Managed Runtimes: <http://www.wolczko.com/CS
 
 ## Binary Translation
 - <https://alanli.org/binary-translator/>
+- CSCD70 Compiler Optimization @ University of Toronto, <https://uoft-ecosystem.github.io/CSCD70/> & <https://github.com/UofT-EcoSystem/CSCD70/tree/2023S>
 
 # Intermittent Computing
 - <https://cmuabstract.github.io/intermittence_tutorial/>
