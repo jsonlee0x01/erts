@@ -270,3 +270,7 @@ USTC LUG会长分析Linux内核问题，Do Your Judgehosts Scale? 对 ICPC 2023 
 HSPT Guest OS/Kernel, Android 4.4(ARM32)/Linux 3.4.0, <https://android.googlesource.com/platform/external/qemu/+/refs/tags/android-4.4_r1>
 
 `git config --global http.sslverify false`: <https://stackoverflow.com/questions/35821245/github-server-certificate-verification-failed>
+
+进程切换时TLB处理：<https://www.wowotech.net/process_management/context-switch-tlb.html>
+
+TLB的基本原理：<https://zhuanlan.zhihu.com/p/108425561?utm_source=wechat_timeline> & <https://blog.csdn.net/SweeNeil/article/details/106171361>
