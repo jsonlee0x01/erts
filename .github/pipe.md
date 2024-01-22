@@ -266,3 +266,5 @@ Compiler Online tools, godbolt, <https://godbolt.org/>
 Measure QEMU TCG performance: <https://ahmedkrmn.github.io/TCG-Continuous-Benchmarking/Measuring-QEMU-Performance-in-System-Mode/>
 
 USTC LUG会长分析Linux内核问题，Do Your Judgehosts Scale? 对 ICPC 2023 合肥站评测问题的分析，<https://blog.taoky.moe/2023-12-02/icpc-2023-hefei-judgehosts-scale.html>
+
+HSPT Guest OS/Kernel, Android 4.4(ARM32)/Linux 3.4.0, <https://android.googlesource.com/platform/external/qemu/+/refs/tags/android-4.4_r1>
