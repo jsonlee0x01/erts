@@ -274,3 +274,5 @@ HSPT Guest OS/Kernel, Android 4.4(ARM32)/Linux 3.4.0, <https://android.googlesou
 进程切换时TLB处理：<https://www.wowotech.net/process_management/context-switch-tlb.html>
 
 TLB的基本原理：<https://zhuanlan.zhihu.com/p/108425561?utm_source=wechat_timeline> & <https://blog.csdn.net/SweeNeil/article/details/106171361>
+
+Master thesis, DBT random test: <https://lawrencezx.github.io/blogs/2021-6-Research-on-Random-Test-Generation-for-Binary-Translation.pdf>
