@@ -276,3 +276,5 @@ HSPT Guest OS/Kernel, Android 4.4(ARM32)/Linux 3.4.0, <https://android.googlesou
 TLB的基本原理：<https://zhuanlan.zhihu.com/p/108425561?utm_source=wechat_timeline> & <https://blog.csdn.net/SweeNeil/article/details/106171361>
 
 Master thesis, DBT random test: <https://lawrencezx.github.io/blogs/2021-6-Research-on-Random-Test-Generation-for-Binary-Translation.pdf>
+
+gdb多线程程序卡死：<https://blog.csdn.net/Dong_HFUT/article/details/125816152>
