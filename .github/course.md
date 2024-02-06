@@ -56,3 +56,6 @@ UCB CS294-113: Virtual Machines and Managed Runtimes: <http://www.wolczko.com/CS
 
 # Intermittent Computing
 - <https://cmuabstract.github.io/intermittence_tutorial/>
+
+# Parallel Computer Archiecture
+- EECS 570, Parallel Computer Architecture: <https://www.eecs.umich.edu/courses/eecs570/lectures/3.pdf>
